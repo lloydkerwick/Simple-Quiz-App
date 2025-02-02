@@ -26,6 +26,12 @@ h1 {
   color: #444444;
 }
 
+@media (max-width: 768px) {
+  h1 {
+    font-size: 2rem;
+  }
+}
+
 button {
   padding: 10px;
 }
